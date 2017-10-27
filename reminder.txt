@@ -1,0 +1,4 @@
+1. ng serve to start the project (Angular: using node.js)
+2. dont forget to `npm install` (package json is ready) because the node_modules folder is not included. 
+
+asd3. dont forget to turn on the apache and sql server (CI)
